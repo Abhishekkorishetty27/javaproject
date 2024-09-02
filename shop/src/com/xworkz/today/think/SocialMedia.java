@@ -17,6 +17,7 @@ public class SocialMedia {
 		
 	}
 	public String getInstagramName() {
+		this.getSocialMedia();
 		return instagram;
 		
 	}
